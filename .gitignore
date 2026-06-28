@@ -1,0 +1,6 @@
+﻿venv/
+index/
+.env
+__pycache__/
+*.pyc
+test_loader.py

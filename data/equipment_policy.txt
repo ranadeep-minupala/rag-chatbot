@@ -1,0 +1,28 @@
+Northwind Robotics — Equipment and Home Office Policy
+
+Overview
+Northwind Robotics provides team members with the equipment and financial support they need to work effectively from anywhere. This policy explains what equipment the company provides, the home office stipend, how hardware is ordered and provisioned, how equipment is maintained and returned, and what happens if equipment is lost or damaged. Questions about equipment should be directed to the People team at people@northwindrobotics.com or 555-0188; questions about device security should go to the Security team at security@northwindrobotics.com.
+
+Company-Provided Equipment
+Every full-time team member is provided with a company laptop configured by the IT team before their first day. The standard configuration depends on the team member's role; engineering and design roles receive higher-specification machines, while most other roles receive the standard model. Along with the laptop, Northwind provides a license for all required software, the company password manager, and access to the systems needed for the role. Company laptops remain the property of Northwind Robotics at all times and must be returned when a team member leaves the company.
+
+Home Office Stipend
+On joining, each full-time team member receives a one-time home office setup stipend of $1,000 to purchase the furniture and accessories needed for a comfortable and ergonomic workspace — for example, a desk, an ergonomic chair, a monitor, a keyboard, a mouse, or a headset. The stipend is claimed through the Expense Reimbursement Policy by submitting receipts within 90 days of purchase. In addition to the one-time setup stipend, team members receive an annual home office refresh allowance of $250 per calendar year, which may be used to replace or upgrade accessories. The annual allowance does not carry over and is forfeited if unused by December 31.
+
+Ordering and Provisioning Hardware
+Standard equipment is ordered automatically as part of onboarding once a team member's start date is confirmed; no request is needed for the standard laptop and core accessories. For non-standard hardware — for example, a second monitor beyond what the stipend covers, specialized peripherals, or accessibility equipment — the team member submits a request through the People portal for manager approval. Accessibility-related equipment requests are reviewed promptly and are not counted against the home office stipend or annual allowance.
+
+Maintenance and Support
+Team members are responsible for taking reasonable care of company equipment. Routine support, software issues, and repairs are handled by the IT team, who can be reached through the IT help channel. If a company device requires repair, the IT team will arrange a replacement or loaner so the team member is not left without the ability to work. Team members must keep their operating system and security software up to date and must not install unapproved software on company devices.
+
+Lost, Stolen, or Damaged Equipment
+A lost or stolen company device must be reported to the Security team at security@northwindrobotics.com immediately so that access can be revoked and the device secured remotely. Accidental damage should be reported to the IT team, who will arrange repair or replacement. Northwind does not charge team members for normal wear and tear or for accidental damage that occurs in the ordinary course of work. Repeated loss or damage resulting from clear negligence may be reviewed with the People team, but the company's default assumption is good faith.
+
+Personal Use of Company Equipment
+Limited personal use of company devices is acceptable, provided it does not interfere with work, does not violate the Code of Conduct or the Information Security Policy, and does not introduce security risk. Team members should not store sensitive personal data on company devices, and should be aware that company devices are company property and may be subject to management and security controls.
+
+Returning Equipment
+When a team member leaves Northwind Robotics, all company equipment — including the laptop and any company-purchased peripherals — must be returned. The People team provides a prepaid shipping label and clear instructions during the offboarding process, and equipment should be returned within 14 days of the last working day. Items purchased with the home office setup stipend or the annual refresh allowance, such as a desk or chair, belong to the team member and do not need to be returned.
+
+Part-Time and Contract Team Members
+Part-time team members are eligible for company equipment and the home office stipend on a basis appropriate to their role and hours, as confirmed by the People team. Contract team members are governed by their individual agreements; in many cases contractors use their own equipment, and any company equipment provided to a contractor must be returned at the end of the engagement.
