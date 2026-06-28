@@ -1,0 +1,28 @@
+Northwind Robotics — Holidays and Office Closure Policy
+
+Overview
+This policy describes the public holidays, floating holidays, and company-wide closures observed by Northwind Robotics. As an all-remote company with team members in many countries, Northwind grants public holidays based on each team member's country of residence rather than a single global calendar. Holidays are separate from paid time off (PTO) and do not reduce a team member's PTO balance. Questions about which holidays apply to you should be directed to the People team at people@northwindrobotics.com or 555-0188.
+
+How Public Holidays Are Determined
+Each team member receives the public holidays observed in their country, and where applicable, their state or region of residence. The People team maintains the official holiday calendar for each location and publishes it in the People portal at the start of each calendar year. Because public holidays differ by country, two team members on the same team may observe different holidays. This is expected and is part of working in an all-remote, globally distributed company. If a public holiday in your location is not reflected on your calendar, contact the People team and it will be corrected.
+
+Number of Public Holidays
+Team members receive the public holidays designated for their country, typically between 8 and 14 days per year depending on location. Northwind does not cap the number of public holidays at a fixed global number; instead, each team member receives the full set observed in their location. Where a country observes more public holidays than the team member can reasonably take while meeting business obligations, the team member should coordinate coverage with their manager.
+
+Floating Holidays
+In addition to public holidays, every full-time team member receives 3 floating holidays per calendar year. Floating holidays may be used for any reason — for example, a religious or cultural observance not already on the team member's public holiday calendar, a personal milestone, or simply additional rest. Floating holidays must be requested through the People portal at least 3 business days in advance and are subject to manager approval based on team coverage. Floating holidays do not carry over; any unused floating holidays are forfeited on December 31.
+
+Company-Wide Closures
+Northwind observes two company-wide closures each year during which the entire company pauses work: a winter closure of one week, typically the last week of December, and a summer wellness week, typically in July. During company-wide closures, all team members are off regardless of location, and these days do not count against PTO, floating holidays, or any public holiday entitlement. The exact dates of each closure are announced at least 60 days in advance through the People portal and company-wide communication channels.
+
+Working on a Holiday
+Team members are not expected to work on their observed public holidays or during company-wide closures. In the rare case that business needs require a team member to work on a public holiday — for example, on-call coverage for critical infrastructure — the team member will receive an equivalent day off to be taken within 60 days, arranged with their manager. Northwind does not pay additional holiday premiums; instead, the company guarantees equivalent rest time.
+
+Holidays During PTO or Leave
+If a public holiday or company-wide closure falls within a period of approved PTO, that day is treated as a holiday and is not deducted from the team member's PTO balance. If a public holiday falls during a statutory or parental leave, it is handled according to the rules of that leave; the People team will clarify the treatment when the leave is arranged.
+
+Religious and Cultural Observance
+Northwind Robotics respects the diverse religious and cultural practices of its global team. Team members who observe holidays not included on their standard public holiday calendar are encouraged to use floating holidays or PTO for those observances. Managers are expected to accommodate reasonable requests for religious and cultural observance, and team members who feel a request has not been reasonably accommodated may raise the matter with the People team.
+
+Part-Time and Contract Team Members
+Part-time team members receive public holidays and floating holidays on a prorated basis according to their scheduled hours. Contract team members should refer to their individual agreements, as holiday entitlements for contractors are governed by the terms of those agreements rather than this policy.

@@ -1,0 +1,62 @@
+Northwind Robotics — Leave and Time Off Policy
+
+Overview
+This policy describes how team members at Northwind Robotics request, accrue, and use paid and unpaid leave. It applies to all full-time team members worldwide. Part-time and contract team members should refer to their individual agreements. US team members are also covered by the country-specific and state-specific provisions described later in this document. All leave is administered by the People team. Questions about this policy, and all leave requests, should be directed to the People team at people@northwindrobotics.com or by calling 555-0188.
+
+How Leave Is Administered
+All leave requests at Northwind Robotics are submitted and tracked through the People portal, accessible from your single sign-on dashboard. After you submit a request, a member of the People team will contact you within 2 business days to confirm eligibility and explain how your pay will be handled during the leave. For US team members, statutory leaves such as the Family and Medical Leave Act run concurrently with Northwind's own paid leave programs wherever the law allows. If you are unsure which leave applies to your situation, contact the People team before submitting a request and they will help you choose.
+
+Paid Time Off (PTO)
+Full-time team members receive 25 days of paid time off per calendar year. PTO is accrued monthly at a rate of just over 2 days per month and is available to use as it accrues. Unused PTO of up to 5 days may be carried over into the following calendar year; any balance above 5 days is forfeited on December 31. PTO does not include public holidays, which are granted separately based on your country of residence. PTO cannot be used to extend, delay, or substitute for any statutory leave such as FMLA.
+
+Requesting Time Off
+All time off must be requested through the People portal at least 5 business days in advance for absences of 3 days or more. Shorter absences should be requested as early as is practical. Your manager is responsible for approving requests within 2 business days. If your manager does not respond within that window, escalate to the People team at people@northwindrobotics.com.
+
+Sick Leave
+Team members receive 10 days of paid sick leave per calendar year, separate from PTO. Sick leave may be used for personal illness, medical appointments, or caring for an immediate family member who is ill. Sick leave does not carry over and is reset on January 1 each year. A doctor's note is required for any sick absence longer than 3 consecutive days. Where state or local law provides a more generous sick leave entitlement, Northwind will provide the greater of the two.
+
+Parental Leave
+Northwind Robotics provides 16 weeks of fully paid parental leave to all new parents, regardless of gender or path to parenthood, including birth, adoption, and foster placement. Parental leave is paid at 100% of base salary, less any state disability or paid family leave benefits the team member receives for the same period. Parental leave must be taken within 12 months of the birth or placement and must be concluded by the child's first birthday or the first anniversary of placement. Team members must have completed 6 months of employment to be eligible. To begin the process, contact the People team at least 30 days before your planned leave start date. Where both parents work at Northwind, each parent is independently entitled to the full 16 weeks.
+
+Bereavement Leave
+Team members may take up to 5 days of paid bereavement leave following the death of an immediate family member, and up to 2 days for extended family. Additional unpaid leave may be arranged with your manager if needed.
+
+Unpaid Leave of Absence
+In circumstances not covered above, team members may request an unpaid leave of absence of up to 90 days. These requests require approval from both your manager and the People team, and should be submitted at least 30 days in advance where possible. During an approved unpaid leave, length of service is preserved, but PTO and sick leave do not accrue.
+
+United States — Statutory Leave Provisions
+The following provisions apply to team members employed by Northwind Robotics in the United States. These statutory leaves run concurrently with Northwind's paid leave programs wherever permitted by law. When more than one leave law applies to the same absence, the leaves count against the team member's entitlement under each applicable law at the same time, and the team member receives the most generous benefit available.
+
+Family and Medical Leave Act (FMLA)
+The federal Family and Medical Leave Act provides eligible US team members up to 12 workweeks of job-protected leave in a 12-month period for their own serious health condition, to care for a family member with a serious health condition, or to bond with a newborn or newly placed child. Leave to care for a service member injured on active duty may extend up to 26 workweeks in a single 12-month period.
+
+To be eligible for FMLA leave, a team member must have completed at least 12 months of service and have worked at least 1,250 hours in the 12 months immediately before the leave begins. Hours worked are calculated as actual hours worked and do not include PTO. Northwind measures the 12-month FMLA period as a rolling period counted backward from the date FMLA leave is first used.
+
+FMLA leave for bonding with a child must be completed within 12 months of the birth or placement. FMLA leave may be taken continuously or, where medically certified, intermittently. FMLA-eligible family members are the team member's spouse, child, and parent.
+
+Medical Certification
+When leave relates to a serious health condition, the team member must provide a medical certification within 15 calendar days of Northwind's request, unless it is not practicable to do so. Northwind may require recertification when an existing certification expires and additional leave is requested. At its own expense, Northwind may require a second medical opinion regarding the team member's own serious health condition.
+
+How To Apply for Medical or Family Leave
+Any medical absence — for the team member or a family member — that requires more than 5 days away from work, whether continuous or intermittent for the same condition, must be reported to the People team through the People portal. A member of the People team will contact you within 2 business days with the forms and information needed for your request. Once leave is approved, set your status to out-of-office so your team is aware of your absence.
+
+State Family and Medical Leave
+Several US states provide their own family and medical leave entitlements that may exceed the federal FMLA. Where a team member resides in such a state, Northwind grants leave in accordance with that state's law, and the state leave runs concurrently with FMLA where both apply. A team member eligible under only one of the applicable laws receives the benefits of that law only. Common state programs include paid family and medical leave, pregnancy disability leave, and paid sick leave; the People team will confirm which programs apply to your state when you submit a request.
+
+Pay During Statutory Leave
+Statutory leave is generally unpaid under the governing law, but Northwind team members are rarely unpaid in practice, because Northwind's paid programs run alongside the statutory leave. For a qualifying parental event, the team member receives Northwind's 16 weeks of fully paid parental leave. For the team member's own serious health condition, pay is coordinated with any applicable state disability or short-term disability benefits, and Northwind makes up the difference so that the team member receives full base salary for up to 12 weeks. Where the team member receives state paid family or disability benefits, Northwind's contribution is reduced by the amount of those benefits so that the combined total does not exceed full base salary. The People team will explain the exact pay calculation for your situation before your leave begins.
+
+Military Leave
+Northwind Robotics recognizes the service obligations of team members in any branch of the United States uniformed services, and protects their employment rights in accordance with the Uniformed Services Employment and Reemployment Rights Act (USERRA). Team members who serve on active or reserve duty are granted a leave of absence up to the maximum period required by law, with reemployment rights preserved. Team members on military leave are paid at 100% of base salary for the first 25 days of leave in a calendar year; leave beyond 25 days is unpaid, though the team member may choose to use available PTO. Team members should provide as much advance notice of military service as possible, and should submit a copy of their orders to the People team as soon as they are received.
+
+Job Protection and Reinstatement
+Team members returning from FMLA, parental, military, or state-protected leave are reinstated to the same position they held before the leave, or to an equivalent position with equivalent pay, benefits, and terms. Reinstatement rights are no greater than if the team member had remained continuously employed; for example, a team member whose position would have been eliminated regardless of the leave is not entitled to reinstatement to a role that no longer exists. A team member returning from leave for their own serious health condition may be required to provide a fitness-for-duty certification before resuming work.
+
+Continuation of Benefits During Leave
+Northwind continues its contributions toward a team member's group health benefits during approved leave on the same terms as if the team member had continued working. Team members must continue to pay their own share of premiums during leave to keep coverage active. Length of service is preserved during leave, although PTO and sick leave may not accrue during unpaid portions of a leave.
+
+Confidentiality
+All medical certifications, recertifications, and related medical information are maintained as confidential records, kept separately from the team member's personnel file, and disclosed only as permitted by law.
+
+Nondiscrimination and No Retaliation
+Northwind Robotics does not interfere with, restrain, or deny any team member's exercise of leave rights, and does not retaliate against any team member for requesting or taking leave, or for providing information in connection with a leave matter. A team member who believes their leave rights have been violated should contact the People team at people@northwindrobotics.com immediately.
