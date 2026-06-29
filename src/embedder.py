@@ -1,5 +1,7 @@
 import faiss
 import numpy as np
+import os 
+import json
 from sentence_transformers import SentenceTransformer
 
 model = SentenceTransformer("all-MiniLM-L6-v2")
@@ -26,4 +28,18 @@ def build_index(chunks):
     index = faiss.IndexFlatIP(dim)                     # inner product = cosine (normalized)
     index.add(vectors)
 
+    return VectorStore(index, chunks)
+
+import os
+
+def save_index(store, path="index"):
+    os.makedirs(path, exist_ok=True)
+    faiss.write_index(store.index, os.path.join(path, "faiss.index"))
+    with open(os.path.join(path, "chunks.json"), "w", encoding="utf-8") as f:
+        json.dump(store.chunks, f)
+
+def load_index(path="index"):
+    index = faiss.read_index(os.path.join(path, "faiss.index"))
+    with open(os.path.join(path, "chunks.json"), encoding="utf-8") as f:
+        chunks = json.load(f)
     return VectorStore(index, chunks)
