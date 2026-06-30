@@ -27,6 +27,10 @@ def answer_with_retrieval(question, store):
 def answer(question, store, business_info):
     route = classify(question)
 
+    if route == "CLARIFY":
+        text = "Could you rephrase that or be more specific? I can help with company policies (leave, expenses, remote work) and facts (contacts, PTO days, rates)."
+        return {"answer": text, "route": route, "sources": []}
+
     if route == "TOOL":
         text = answer_with_tool(question, business_info)
         return {"answer": text, "route": route, "sources": []}
