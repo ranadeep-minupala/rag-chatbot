@@ -1,13 +1,22 @@
-import os, json
+import os, json, re
 from groq import Groq
 
 client = Groq(api_key=os.environ["GROQ_API_KEY"])
 
-MODEL = "llama-3.1-8b-instant"
+MODEL = "llama-3.3-70b-versatile"
 
 
 def get_business_info(field, business_info):
     return business_info.get(field, "Not found")
+
+
+def _clean(text):
+    """Reject any leaked raw function-call text."""
+    if not text:
+        return "I don't have that information."
+    if "<function" in text or text.strip().startswith("{"):
+        return "I don't have that information."
+    return text
 
 
 def answer_with_tool(question, business_info):
@@ -47,10 +56,7 @@ def answer_with_tool(question, business_info):
     msg = resp.choices[0].message
 
     if not msg.tool_calls:
-        # Model failed to make a proper tool call (sometimes returns malformed text)
-        if msg.content and "<function" in msg.content:
-            return "I don't have that information."
-        return msg.content or "I don't have that information."
+        return _clean(msg.content)
 
     # Your code runs the lookup
     call = msg.tool_calls[0]
@@ -79,14 +85,13 @@ def answer_with_tool(question, business_info):
         "content": str(result),
     })
 
-    final = client.chat.completions.create(
-        model=MODEL,
-        messages=messages,
-        temperature=0,
-    )
-    return final.choices[0].message.content
+    try:
+        final = client.chat.completions.create(
+            model=MODEL,
+            messages=messages,
+            temperature=0,
+        )
+    except Exception:
+        return f"{args['field'].replace('_', ' ')}: {result}"
 
-    final_text = final.choices[0].message.content
-    if final_text and "<function" in final_text:
-        return "I don't have that information."
-    return final_text or "I don't have that information."
+    return _clean(final.choices[0].message.content)
