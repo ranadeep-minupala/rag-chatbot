@@ -34,21 +34,34 @@ def answer_with_tool(question, business_info):
     ]
 
     # Round 1: model picks the field
-    resp = client.chat.completions.create(
-        model=MODEL,
-        messages=messages,
-        tools=tools,
-        temperature=0,
-    )
+    try:
+        resp = client.chat.completions.create(
+            model=MODEL,
+            messages=messages,
+            tools=tools,
+            temperature=0,
+        )
+    except Exception:
+        return "I don't have that information."
+
     msg = resp.choices[0].message
 
     if not msg.tool_calls:
-        return msg.content
+        # Model failed to make a proper tool call (sometimes returns malformed text)
+        if msg.content and "<function" in msg.content:
+            return "I don't have that information."
+        return msg.content or "I don't have that information."
 
     # Your code runs the lookup
     call = msg.tool_calls[0]
-    args = json.loads(call.function.arguments)
-    result = get_business_info(args["field"], business_info)
+    try:
+        args = json.loads(call.function.arguments)
+        result = get_business_info(args["field"], business_info)
+    except Exception:
+        return "I don't have that information."
+
+    if result == "Not found":
+        return "I don't have that information."
 
     # Round 2: model phrases the answer using the result
     messages.append({
