@@ -85,3 +85,8 @@ def answer_with_tool(question, business_info):
         temperature=0,
     )
     return final.choices[0].message.content
+
+    final_text = final.choices[0].message.content
+    if final_text and "<function" in final_text:
+        return "I don't have that information."
+    return final_text or "I don't have that information."
